@@ -93,7 +93,7 @@ const CONFIG = {
     },
     {
       q: 'Posso pedir alterações depois?',
-      a: 'Sim. Com a manutenção opcional (R$ 29/mês), pequenas alterações como preços, fotos e horários estão incluídas. [A PREENCHER: como funcionam as alterações para quem não tem a manutenção]',
+      a: 'Sim. Com a manutenção opcional (R$ 29/mês), pequenas alterações como preços, fotos e horários estão incluídas.',
     },
     {
       q: 'Preciso entender de computador?',
@@ -101,7 +101,7 @@ const CONFIG = {
     },
     {
       q: 'Como funciona o pagamento?',
-      a: 'Via Pix ou cartão. Você pode pagar à vista ou parcelado: 2x no Essencial, 3x no Profissional e 4x no Completo. [A PREENCHER: quando o pagamento é feito (antes, depois ou dividido entre início e entrega)]',
+      a: 'Via Pix ou cartão. Você pode pagar à vista ou parcelado: 2x no Essencial, 3x no Profissional e 4x no Completo.',
     },
   ],
 };
